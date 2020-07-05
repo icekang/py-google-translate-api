@@ -1,7 +1,7 @@
 # Google Translate API with Python request
 
 Python library is cool, as many know that we can simply use https://pypi.org/project/googletrans/ which is free and unlimited.
-But how about we do it ourselves for fun-sake! With basic POST request you can directly make a call to google translate directly!
+But how about we do it ourselves for fun-sake! With basic POST request you can directly make a call to google translate!
 
 Google Translate API documentation (that I mimick the "curl" example)
 https://cloud.google.com/translate/docs/basic/setup-basic
